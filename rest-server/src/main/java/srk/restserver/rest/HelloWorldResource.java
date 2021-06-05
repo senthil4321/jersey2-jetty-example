@@ -1,4 +1,4 @@
-package edomingues.restserver.rest;
+package srk.restserver.rest;
 
 import javax.inject.Singleton;
 import javax.ws.rs.GET;
@@ -7,7 +7,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import edomingues.restserver.model.Saying;
+import srk.restserver.model.Saying;
 
 
 @Path("/hello")

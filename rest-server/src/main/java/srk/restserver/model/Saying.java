@@ -1,4 +1,4 @@
-package edomingues.restserver.model;
+package srk.restserver.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
